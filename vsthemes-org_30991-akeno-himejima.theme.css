@@ -1,0 +1,28 @@
+/**
+* @name Akeno.exe
+* @version 1.0
+* @author Justsenpai_ | szopjle#4172
+* @description Akeno himejima theme xd
+* @authorId 270607409150558208
+*/
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css);
+:root {
+    --background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/36d35de7-1066-429b-bbc8-26383356bd71/dd8pgx3-36a96a9e-e8c0-4017-9b75-6e405793c384.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzZkMzVkZTctMTA2Ni00MjliLWJiYzgtMjYzODMzNTZiZDcxXC9kZDhwZ3gzLTM2YTk2YTllLWU4YzAtNDAxNy05Yjc1LTZlNDA1NzkzYzM4NC5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.v1eRIpUK0C62HBV2KkK3QnEcpADz8tT80cT-qD5vzJo);
+    --friends-icon: url(https://cdn.wallpapersafari.com/95/74/XmaB2p.jpg);
+    --friends-icon-position: center center;
+    --friends-icon-zoom: 100%;
+    --main-color: rgba(105, 24, 172, 0.884);
+    --main-transparency: rgba(14, 2, 20, 0.795);
+    --unread-server-animation: rainbow;
+    --hover-list-bg-color: rgba(59, 58, 58, 0.432);
+    --border-lines-color: hsla(0,0%,100%,.1);
+    --scroll-bar-color: rgba(79, 30, 172, 0.15);
+    --font: 'Garamond';
+    --font-size: 16px;
+    --selected-text-voice-color: #af1111;
+    --channel-hover-text-color: rgba(73, 79, 160, 0.836);
+    --unread-text-color: #e791cb;
+    --user-popup-background: rgba(0, 0, 0, 0.8);
+    --HSL-server-icon-size: 50px;
+    --HSL-server-spacing: 10px;
+}
